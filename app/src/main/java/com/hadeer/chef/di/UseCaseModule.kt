@@ -14,5 +14,4 @@ object UseCaseModule {
     fun provideUseCase(mealsRepo: MealsRepo): MealsCategoryUseCase {
         return MealsCategoryUseCase(mealsRepo)
     }
-
 }
