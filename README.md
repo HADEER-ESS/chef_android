@@ -11,7 +11,7 @@
 <li>Kotlin</li>
 <li>Recycler View</li>
 <li>Clean Architeture MVVM</li>
-<li>Mapper (customize used response)</li>
+<li>Mapper (customize response)</li>
 
 <h3>
 <img src="https://github.com/user-attachments/assets/0a7d6b80-b4c3-45c2-8199-652483ac0584" height="20px" width="20px"/>
